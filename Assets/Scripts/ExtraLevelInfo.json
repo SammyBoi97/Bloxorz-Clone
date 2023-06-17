@@ -1,0 +1,82 @@
+{
+    "Level 1": {
+
+    },
+    "Level 2": {
+        "Switch 1": {
+            "isSoftSwitch": true,
+            "switchFunction": 2,
+            "position": [2,2],
+            "childTilePositions": [[4,4], [5,4]]
+        },
+        "Switch 2": {
+            "isSoftSwitch": false,
+            "switchFunction": 2,
+            "position": [8,1],
+            "childTilePositions": [[10,4], [11,4]]
+        }
+    },
+    "Level 3": {
+
+    },
+    "Level 4": {
+
+    },
+    "Level 5": {
+
+    },
+    "Level 6": {
+
+    },
+    "Level 7": {
+
+    },
+    "Level 8": {
+
+    },
+    "Level 9": {
+
+    },
+    "Level 10": {
+
+    },
+    "Level 11": {
+
+    },
+    "Level 12": {
+
+    },
+    "Level 13": {
+
+    },
+    "Level 14": {
+
+    },
+    "Level 15": {
+
+    },
+    "Level 16": {
+
+    },
+    "Level 17": {
+
+    },
+    "Level 18": {
+
+    },
+    "Level 19": {
+
+    },
+    "Level 20": {
+
+    },
+    "Level 21": {
+
+    },
+    "Level 22": {
+
+    },
+    "Level 23": {
+
+    },
+}

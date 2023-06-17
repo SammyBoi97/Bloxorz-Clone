@@ -1,0 +1,62 @@
+{
+    "switches" :
+    [
+        {
+            "level": 2,
+            "isSoftSwitch": true,
+            "switchFunction": 2,
+            "position": "2,3",
+            "childTilePositions": ["4,1", "5,1"],
+            "childTilesStartEnabled": false
+        },
+        {
+            "level": 2,
+            "isSoftSwitch": false,
+            "switchFunction": 2,
+            "position": "8,4",
+            "childTilePositions": ["10,1", "11,1"],
+            "childTilesStartEnabled": false
+        },
+        {
+            "level": 5,
+            "isSoftSwitch": true,
+            "switchFunction": 2,
+            "position": "8,8",
+            "childTilePositions": ["5,8", "6,8"],
+            "childTilesStartEnabled": true
+        },
+        {
+            "level": 5,
+            "isSoftSwitch": true,
+            "switchFunction": 1,
+            "position": "3,6",
+            "childTilePositions": ["5,1", "6,1"],
+            "childTilesStartEnabled": true
+        },
+        {
+            "level": 5,
+            "isSoftSwitch": true,
+            "switchFunction": 0,
+            "position": "6,4",
+            "childTilePositions": ["5,1", "6,1"],
+            "childTilesStartEnabled": true
+        },
+        {
+            "level": 5,
+            "isSoftSwitch": true,
+            "switchFunction": 2,
+            "position": "14,3",
+            "childTilePositions": ["5,1", "6,1"],
+            "childTilesStartEnabled": true
+        },
+        {
+            "level": 7,
+            "isSoftSwitch": false,
+            "switchFunction": 2,
+            "position": "9,3",
+            "childTilePositions": ["3,1"],
+            "childTilesStartEnabled": false
+        }
+    ]
+}
+   
